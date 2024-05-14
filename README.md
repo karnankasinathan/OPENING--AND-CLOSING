@@ -19,8 +19,8 @@ Use Closing Operation
 
 ### Program:
 ```
-Developed by: Dario G
-Register Number:212222230027
+Developed by: Karnan K
+Register Number:212222230062
 ```
 #### Display the input Image
 ```
